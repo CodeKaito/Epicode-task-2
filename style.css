@@ -144,6 +144,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-top: 5px;
 }
 
 .vr-image-title > h4 {
@@ -153,7 +154,8 @@ body {
 .vr-image-title > p {
     color: #075968;
     font-weight: 900;
-    font-size: smaller;
+    font-size: 12px;
+    margin-top: 2px;
 }
 
 .marshall-container {
@@ -172,6 +174,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-top: 5px;
 }
 
 .marshall-title > h4 {
@@ -181,7 +184,8 @@ body {
 .marshall-title > p {
     color: #075968;
     font-weight: 900;
-    font-size: smaller;
+    font-size: 12px;
+    margin-top: 1px;
 }
 
 .items-superior-container {
